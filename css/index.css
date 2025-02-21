@@ -2721,7 +2721,7 @@ i.anzhiyu-icon-hashtag {
   --anzhiyu-shadow-border: 0 8px 16px -4px rgba(44,45,48,0.047);
   --anzhiyu-shadow-blackdeep: 0 2px 16px -3px rgba(0,0,0,0.15);
   --anzhiyu-logo-color: linear-gradient(215deg, #4584ff 0%, #cf0db9 100%);
-  --anzhiyu-code-stress: var(--anzhiyu-main);
+  --anzhiyu-code-stress: #554627;
   --style-border: 1px solid var(--anzhiyu-card-border);
   --anzhiyu-blue-main: #425aef;
   --style-border-hover: 1px solid var(--anzhiyu-main);
